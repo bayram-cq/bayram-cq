@@ -1,85 +1,68 @@
-# Hi, I'm Muhammed 👋
+# Hi, I'm Muhammed
 
-I'm a Unity Game Developer focused on **C#**, **mobile games**, **gameplay systems**, and practical game development.
+**Unity Game Developer | C# | Android**
 
-## 🎮 About Me
+I develop mobile games with Unity and C#, working on gameplay systems, UI, debugging, and Android builds.
 
-- 📱 Published **White Pyramid: Russian Billiard** on Google Play
-- ⚔️ Developing a strategy battle game with unit combat, resource management, and progression systems
-- 🎲 Developed a local 4-player game featuring 8 different mini-games
-- 🔧 Interested in gameplay programming, debugging, UI systems, and mobile development
-- 🧪 Experience with software testing and AI-powered application development
-- 🌱 Continuously improving my Unity and C# skills
+My portfolio includes **one game released on Google Play, one in closed testing, and two projects in development**.
 
-## 🛠 Tech Stack
-
-- Unity
-- C#
-- Android
-- Git / GitHub
-- Mobile Game Development
-- Gameplay Systems
-- UI Systems
-- Software Testing
-
-## 🚀 Projects
+## Games
 
 ### White Pyramid: Russian Billiard
-A mobile Russian billiards game developed with Unity and C# and published on Google Play.
 
-**Highlights:**
-- Gameplay systems
-- UI and menus
-- Game logic
-- Debugging and testing
-- Ads / monetization integration
-- Android build process
-- Google Play publishing
+**Status: Released on Google Play**
 
-**Tech:** Unity, C#, Android
+A mobile Russian billiards game built with Unity and C#.
 
----
+- Gameplay systems, game logic, UI, and menus
+- Ads and monetization integration
+- Debugging, testing, Android builds, and Google Play publishing
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.oyuncuk.bilardx)
+
+### American Pool: 8 Ball
+
+**Status: Closed testing on Google Play**
+
+A mobile 8-ball pool game built with Unity and C#, currently in closed testing before its public release.
 
 ### Strategy Battle Game
-A strategy combat game inspired by real-time unit-based battles.
 
-**Highlights:**
-- Unit spawning
-- Resource management
-- Enemy AI
-- Combat systems
-- Base upgrades
-- Progression systems
-- UI systems
+**Status: In development**
 
-**Tech:** Unity, C#
+A strategy combat game with unit battles, resource management, and progression systems.
 
----
+- Unit spawning and enemy AI
+- Combat systems and base upgrades
+- Resource management, progression, and UI
 
 ### 4-Player Mini Games
-A local multiplayer game where up to four players can compete across 8 different mini-games on the same device.
 
-**Highlights:**
-- Local multiplayer
-- Multiple player input
-- Mini-game architecture
+**Status: In development**
+
+A local multiplayer game for up to four players on the same device, featuring eight mini-games.
+
+- Multiple player input and mini-game architecture
 - Round and score systems
-- UI systems
-- Game state management
+- UI and game state management
 
-**Tech:** Unity, C#
+## Skills
 
-## 📫 Connect With Me
+- **Development:** Unity, C#, Android
+- **Gameplay:** Game logic, combat, progression, and local multiplayer
+- **UI:** Menus, gameplay interfaces, and game state management
+- **Delivery:** Debugging, testing, Android builds, and Google Play publishing
+- **Version control:** Git and GitHub
 
-- LinkedIn: https://www.linkedin.com/in/muhammed-bayram-213847321/
-- Google Play: https://play.google.com/store/apps/details?id=com.oyuncuk.bilard
+## Open Source
 
----
+I'm building my public portfolio and getting started with open-source contributions around Unity, C#, and game development tools.
 
-I'm currently open to small Unity freelance projects, including:
-- Bug fixing
-- Mobile game development
-- UI / menu systems
-- Gameplay mechanics
-- Android builds
-- Small prototypes
+## Freelance
+
+I'm open to small Unity projects involving bug fixes, UI and menus, gameplay mechanics, Android builds, and prototypes.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/muhammed-bayram-213847321/)
+- [Google Play](https://play.google.com/store/apps/developer?id=mamixgames)
